@@ -1,11 +1,5 @@
 export const teamMembers = [
   {
-    name: "Doug Kimmel",
-    title: "CEO / Co-Chairman",
-    subtitle: "Co-Founder",
-    email: "Doug@BitCorpInc.com",
-    image: "/images/team/doug-kimmel.jpg",
-  },
   {
     name: "Rick Sweitzer",
     title: "Chief Sales Officer / Vice Chairman",
@@ -15,29 +9,15 @@ export const teamMembers = [
   },
   {
     name: "Barry Van Scoten, Jr",
-    title: "President / Co-Chairman",
-    subtitle: "Chief Business & Operating Officer, Co-Founder",
+    title: "Chief Executive Officer / Chairman",
+    subtitle: "Co-Founder",
     email: "Barryvs@BitCorpInc.com",
     image: "/images/team/barry-van-scoten.jpg",
   },
   {
-    name: "David Giglio",
-    title: "EVP of Finance / Treasurer",
-    subtitle: "Business Development Officer, Co-Founder",
-    email: "David@BitCorpInc.com",
-    image: "/images/team/david-giglio.jpg",
-  },
-  {
-    name: "Bob Chasse",
-    title: "EVP of Operations / Secretary",
-    subtitle: "Business Development Officer, Co-Founder",
-    email: "Bob@BitCorpInc.com",
-    image: "/images/team/bob-chasse.jpg",
-  },
-  {
     name: "Sean Storrie",
-    title: "EVP of Networking",
-    subtitle: "Business Development Officer, Co-Founder",
+    title: "Chief Development Officer",
+    subtitle: "Co-Founder",
     email: "Sean@BitCorpInc.com",
     image: "/images/team/sean-storrie.png",
   },
