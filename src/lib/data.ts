@@ -1,12 +1,5 @@
 export const teamMembers = [
   {
-    name: "Doug Kimmel",
-    title: "CEO / Co-Chairman",
-    subtitle: "Co-Founder",
-    email: "Doug@BitCorpInc.com",
-    image: "/images/team/doug-kimmel.jpg",
-  },
-  {
     name: "Rick Sweitzer",
     title: "Chief Sales Officer / Vice Chairman",
     subtitle: "Co-Founder",
