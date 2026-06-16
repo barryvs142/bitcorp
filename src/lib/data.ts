@@ -1,6 +1,5 @@
 export const teamMembers = [
   {
-  {
     name: "Rick Sweitzer",
     title: "Chief Sales Officer / Vice Chairman",
     subtitle: "Co-Founder",
